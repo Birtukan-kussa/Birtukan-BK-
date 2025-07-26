@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=birtukan-kussa" alt="birtukan-kussa" /></a> </p>
 
-- 🔭 I’m currently a fourth your software [engineering student at](at AASTU)
+- 🔭 I’m currently a fourth your software [engineering student at Addis Ababa Science and Technology University (AASTU)
 
-- I am currently working as an intern at Kuraz Tech, where I focus on frontend development using React and Tailwind CSS. Additionally, I am interning at Minab Tech, contributing to projects using Vue.js and Go (Golang) **at Kuraz technology**
+- I am currently working as an intern at Kuraz Tech, where I focus on frontend development using React and Tailwind CSS. Additionally, I am interning at Minab Tech, contributing to projects using Vue.js and Go (Golang) 
 
 - I’m currently seeking guidance and collaboration opportunities to strengthen my skills in backend technologies **like Node.js**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nAnvPWa8iW-oIlCRFvwfw_8lg2RGxUW0JGNKEp4pyK4/edit?usp=sharing](https://docs.google.com/document/d/1nAnvPWa8iW-oIlCRFvwfw_8lg2RGxUW0JGNKEp4pyK4/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:birtukankussa@gmail.com</h3>
 <p align="left">
 </p>
 
